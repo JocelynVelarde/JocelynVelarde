@@ -9,8 +9,8 @@ My interest for coding started since I was 11, I started with HTML and CSS and t
 
 * 🌍  I'm based in Mexico
 * ✉️  You can contact me at [A01285780@tec.mx](mailto:A01285780@tec.mx)
-* 🧠  I'm working on a investigation related to Brain Computer Interfaces(BCIs)
-* 🤝  I´m code multiplatform apps as a full stack developer
+* 🧠  I'm working on a investigation related to Brain Computer Interfaces (BCIs)
+* 🤝  I code multiplatform apps as a full stack developer
 * ⚡  I enjoy FIRST Robotics like a sport!
 
 <a href="https://www.github.com/JocelynVelarde" target="_blank" rel="noreferrer"><img
