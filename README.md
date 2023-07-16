@@ -6,7 +6,11 @@ Hello my name is 🐝 Jocelyn Velarde 🐝
 
 Student in Robotics and Digital Systems
 --------------------------------------
-
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" alt="Readme Quotes">
+  </a>
+</div>
 
 I developed a passion for coding when I was just 11 years old. It all began with HTML and CSS, and as I delved deeper into the world of programming, I found myself drawn to Java. Competitive programming quickly became my favorite pastime, and Java became my go-to language for this exciting activity.
 
@@ -23,9 +27,14 @@ As a side project, I am currently collaborating with a partner to develop a Chro
 * ⚡  I enjoy FIRST Robotics like a sport!
 
 <p align="center">
-<a href="https://www.github.com/JocelynVelarde" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/JocelynVelarde?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a><a href="https://www.twitch.tv/pollogunnpao" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/pollogunnpao?logo=twitchsx&style=for-the-badge&color=22c55e&labelColor=1c1917&label=TWITCH+STATUS" /></a></p>
+  <a href="https://www.github.com/JocelynVelarde" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/JocelynVelarde?logo=github&style=for-the-badge&color=ff69b4&labelColor=1c1917" />
+  </a>
+  <a href="https://www.twitch.tv/pollogunnpao" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/twitch/status/pollogunnpao?logo=twitchsx&style=for-the-badge&color=22c55e&labelColor=ff69b4&label=TWITCH+STATUS" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=JocelynVelarde&color=ff69b4&style=for-the-badge" />
+</p>
 
 <div align="center">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=b5l7tjmoagu41aaj80sfpcrb7" alt="Alt text">
