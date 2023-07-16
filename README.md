@@ -2,7 +2,7 @@
 Hi 👋 My name is Jocelyn Velarde
 ================================
 
-Student in International Baccalaureate
+Student in Robotics and Digital Systems
 --------------------------------------
 
 My interest for coding started since I was 11, I started with HTML and CSS and then moved on into Java. I use Java as my main language, which I am also taking class courses of. I want to expand my interests into Networking and Gaming. I develop multiplatform applications using Flutter framework
