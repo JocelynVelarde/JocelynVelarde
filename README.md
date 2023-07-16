@@ -36,7 +36,7 @@ src="https://img.shields.io/twitch/status/pollogunnpao?logo=twitchsx&style=for-t
 
 <b>My GitHub Stats</b>
 
-[![Jocelyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=JocelynVelarde)](https://github.com/anuraghazra/github-readme-stats)
+![Jocelyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=JocelynVelarde&show_icons=true&theme=tokyonight)
 
 <a href="http://www.github.com/JocelynVelarde"><img src="https://github-readme-stats.vercel.app/api?username=JocelynVelarde&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="JocelynVelarde's GitHub stats" /></a>
 
