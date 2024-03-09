@@ -63,27 +63,6 @@ As a side project, I am currently collaborating with a partner to develop a Chro
   </a>
 </div>
 
-### 💻 Top Repositories 💻
-
-<div align="center">
-  <a href="https://github.com/JocelynVelarde/VOLTEC-App-Inventario">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JocelynVelarde&repo=VOLTEC-App-Inventario&show_icons=true&theme=tokyonight&bg_color=00000000" alt="VOLTEC App Inventario">
-  </a>
-  <a href="https://github.com/JocelynVelarde/Portal-Balance-General">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JocelynVelarde&repo=Portal-Balance-General&show_icons=true&theme=tokyonight&bg_color=00000000" alt="Portal Balance General">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/JocelynVelarde/Mind-Controlled-Hand-Prosthesis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JocelynVelarde&repo=Mind-Controlled-Hand-Prosthesis&show_icons=true&theme=tokyonight&bg_color=00000000" alt="Mind Controlled Hand Prosthesis">
-  </a>
-  <a href="https://github.com/JocelynVelarde/ChromeExtension_v1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JocelynVelarde&repo=ChromeExtension_v1&show_icons=true&theme=tokyonight&bg_color=00000000" alt="ChromeExtension_v1">
-  </a>
-</div>
-
-
 
 
 
