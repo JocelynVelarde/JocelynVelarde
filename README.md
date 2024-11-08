@@ -16,6 +16,16 @@ Student in Robotics and Digital Systems
 
 <p align="left">Nice to meet you everyone! I’m a sophomore studying robotics and digital systems. I love to teach and learn new things from others, usually networking always occurs at hackathons (lmk if you want to team up). I’ve also had like 2 internships with local mexican companies. Then I became an MLH Fellow and started contributing to open source. I then got a formal internship at Insulet and been working remotely as a Cloud Developer since. I’m now an MLH Coach, love to assist and participate in hackathons as well as to stream tech content. I enjoy random projects at midnight and always love collaboration with a multiskilled team.</p>
 
+<p align="center">
+  <a href="https://www.github.com/JocelynVelarde" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/JocelynVelarde?logo=github&style=for-the-badge&color=ff69b4&labelColor=1c1917" />
+  </a>
+  <a href="https://www.twitch.tv/pollogunnpao" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/twitch/status/pollogunnpao?logo=twitchsx&style=for-the-badge&color=22c55e&labelColor=ff69b4&label=TWITCH+STATUS" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=JocelynVelarde&color=ff69b4&style=for-the-badge" />
+</p>
+
 ###
 
 <h2 align="left">About me</h2>
@@ -187,6 +197,7 @@ Student in Robotics and Digital Systems
   <a href="https://www.linkedin.com/in/jocelynvelarde/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  
 </div>
 
 <h2 align="left">Stats ⭐️</h2>
