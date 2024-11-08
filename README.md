@@ -12,8 +12,6 @@ Student in Robotics and Digital Systems
   </a>
 </div>
 
-<h1 align="left">Hello my name is Jocelyn Velarde 🐝</h1>
-
 ###
 
 <p align="left">Nice to meet you everyone! I’m a sophomore studying robotics and digital systems. I love to teach and learn new things from others, usually networking always occurs at hackathons (lmk if you want to team up). I’ve also had like 2 internships with local mexican companies. Then I became an MLH Fellow and started contributing to open source. I then got a formal internship at Insulet and been working remotely as a Cloud Developer since. I’m now an MLH Coach, love to assist and participate in hackathons as well as to stream tech content. I enjoy random projects at midnight and always love collaboration with a multiskilled team.</p>
@@ -25,6 +23,14 @@ Student in Robotics and Digital Systems
 ###
 
 <p align="left">🌍  I'm based in Mexico<br>✨ Creating bugs since 2012<br>📚 I'm currently learning about Cybersecurity, Cloud, ROS and Autonomous systems<br>⚡  I enjoy robotics as a sport!<br>🎯 Love to research about Brain Computer Interfaces<br>🎲 Fun fact: I like salsa dancing and the octocat plushie</p>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/b5l7tjmoagu41aaj80sfpcrb7">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=b5l7tjmoagu41aaj80sfpcrb7&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 
@@ -168,16 +174,6 @@ Student in Robotics and Digital Systems
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/b5l7tjmoagu41aaj80sfpcrb7">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=b5l7tjmoagu41aaj80sfpcrb7&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-<img align="right" height="150" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/96de5b12-4d8e-49f9-bdac-303afcf9bcda/dfr7was-0a0f70ad-f5c0-4e49-bb9f-4c67d862cc5a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk2ZGU1YjEyLTRkOGUtNDlmOS1iZGFjLTMwM2FmY2Y5YmNkYVwvZGZyN3dhcy0wYTBmNzBhZC1mNWMwLTRlNDktYmI5Zi00YzY3ZDg2MmNjNWEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nGUalj3zHjKHtfik8TfOvzQ58AfRfWHfAq9pGamGMMM"  />
-
-###
-
 <div align="left">
   <a href="https://www.youtube.com/channel/UCxV9Zb_AwKe3tPnLJCuMk3Q" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -193,11 +189,8 @@ Student in Robotics and Digital Systems
   </a>
 </div>
 
-###
+<h2 align="left">Stats ⭐️</h2>
 
-<img src="https://raw.githubusercontent.com/JocelynVelarde/JocelynVelarde/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JocelynVelarde&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
