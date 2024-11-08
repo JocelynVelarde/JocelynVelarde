@@ -164,13 +164,15 @@ Student in Robotics and Digital Systems
 
 ###
 
+<h2 align="left">Connect with me ☕️...</h2>
+
+###
+
 <div align="center">
   <a href="https://open.spotify.com/user/b5l7tjmoagu41aaj80sfpcrb7">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=b5l7tjmoagu41aaj80sfpcrb7&count=5" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
 
 <img align="right" height="150" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/96de5b12-4d8e-49f9-bdac-303afcf9bcda/dfr7was-0a0f70ad-f5c0-4e49-bb9f-4c67d862cc5a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk2ZGU1YjEyLTRkOGUtNDlmOS1iZGFjLTMwM2FmY2Y5YmNkYVwvZGZyN3dhcy0wYTBmNzBhZC1mNWMwLTRlNDktYmI5Zi00YzY3ZDg2MmNjNWEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nGUalj3zHjKHtfik8TfOvzQ58AfRfWHfAq9pGamGMMM"  />
 
